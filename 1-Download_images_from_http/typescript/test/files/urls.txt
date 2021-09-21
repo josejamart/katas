@@ -1,0 +1,5 @@
+http://rickandmortyapi.com/api/character/avatar/1.jpeg
+http://rickandmortyapi.com/api/character/avatar/2.jpeg
+http://rickandmortyapi.com/api/character/avatar/3.jpeg
+http://rickandmortyapi.com/api/character/avatar/4.jpeg
+http://rickandmortyapi.com/api/character/avatar/5.jpeg
